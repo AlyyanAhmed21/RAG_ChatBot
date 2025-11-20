@@ -129,4 +129,3 @@ To replicate the benchmark results:
 python evaluate_generation.py
 ```
 This will test all techniques against the Ground Truth dataset and output a CSV report.
-```
