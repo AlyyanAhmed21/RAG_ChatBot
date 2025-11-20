@@ -8,3 +8,4 @@ python-dotenv
 pandas
 tabulate
 sentence-transformers
+langchain-text-splitters
