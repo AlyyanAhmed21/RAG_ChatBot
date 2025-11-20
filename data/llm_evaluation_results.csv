@@ -1,0 +1,5 @@
+Technique,Answer Accuracy (%),Avg Input Tokens,Avg Output Tokens,Total Cost (Tokens)
+Flattened,100,1608,59,16675
+Hierarchy,100,1932,118,20501
+Semantic,100,1198,208,14069
+Graph,100,2116,95,22118
