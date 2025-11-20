@@ -1,0 +1,299 @@
+--- CAR ENTRY (SEMANTIC) ---
+Vehicle Identification: This is a 2024 Suzuki WagonR located in Islamabad.
+Technical Specifications: It features a standard engine with manual transmission.
+Features & Add-ons: The car comes equipped with: Cruise Control, Alloy Rims, Leather Seats.
+Market Value: The listed price for this vehicle is PKR 6900000.
+
+--- CAR ENTRY (SEMANTIC) ---
+Vehicle Identification: This is a 2020 Suzuki Cultus located in Islamabad.
+Technical Specifications: It features a standard engine with manual transmission.
+Features & Add-ons: The car comes equipped with: Sunroof, Leather Seats, Navigation.
+Market Value: The listed price for this vehicle is PKR 2700000.
+
+--- CAR ENTRY (SEMANTIC) ---
+Vehicle Identification: This is a 2019 Suzuki Cultus located in Islamabad.
+Technical Specifications: It features a standard engine with manual transmission.
+Features & Add-ons: The car comes equipped with: Sunroof, Heated Seats, Leather Seats.
+Market Value: The listed price for this vehicle is PKR 3100000.
+
+--- CAR ENTRY (SEMANTIC) ---
+Vehicle Identification: This is a 2020 Honda Accord located in Islamabad.
+Technical Specifications: It features a standard engine with manual transmission.
+Features & Add-ons: The car comes equipped with: Cruise Control, Navigation, Alloy Rims.
+Market Value: The listed price for this vehicle is PKR 1800000.
+
+--- CAR ENTRY (SEMANTIC) ---
+Vehicle Identification: This is a 2024 Toyota Yaris located in Karachi.
+Technical Specifications: It features a standard engine with manual transmission.
+Features & Add-ons: The car comes equipped with: Navigation, Sunroof, Leather Seats.
+Market Value: The listed price for this vehicle is PKR 6600000.
+
+--- CAR ENTRY (SEMANTIC) ---
+Vehicle Identification: This is a 2020 Honda Accord located in Lahore.
+Technical Specifications: It features a standard engine with manual transmission.
+Features & Add-ons: The car comes equipped with: Leather Seats, Alloy Rims, Heated Seats.
+Market Value: The listed price for this vehicle is PKR 2000000.
+
+--- CAR ENTRY (SEMANTIC) ---
+Vehicle Identification: This is a 2018 Suzuki Cultus located in Islamabad.
+Technical Specifications: It features a standard engine with manual transmission.
+Features & Add-ons: The car comes equipped with: Heated Seats, Sunroof, Leather Seats.
+Market Value: The listed price for this vehicle is PKR 3500000.
+
+--- CAR ENTRY (SEMANTIC) ---
+Vehicle Identification: This is a 2021 Honda Civic located in Multan.
+Technical Specifications: It features a standard engine with manual transmission.
+Features & Add-ons: The car comes equipped with: Alloy Rims, Heated Seats, Sunroof.
+Market Value: The listed price for this vehicle is PKR 2500000.
+
+--- CAR ENTRY (SEMANTIC) ---
+Vehicle Identification: This is a 2024 Toyota Corolla located in Multan.
+Technical Specifications: It features a standard engine with manual transmission.
+Features & Add-ons: The car comes equipped with: Heated Seats, Cruise Control, Sunroof.
+Market Value: The listed price for this vehicle is PKR 5600000.
+
+--- CAR ENTRY (SEMANTIC) ---
+Vehicle Identification: This is a 2019 Toyota Yaris located in Lahore.
+Technical Specifications: It features a standard engine with manual transmission.
+Features & Add-ons: The car comes equipped with: Alloy Rims, Leather Seats, Sunroof.
+Market Value: The listed price for this vehicle is PKR 5200000.
+
+--- CAR ENTRY (SEMANTIC) ---
+Vehicle Identification: This is a 2020 Honda BR-V located in Multan.
+Technical Specifications: It features a standard engine with manual transmission.
+Features & Add-ons: The car comes equipped with: Navigation, Leather Seats, Cruise Control.
+Market Value: The listed price for this vehicle is PKR 2200000.
+
+--- CAR ENTRY (SEMANTIC) ---
+Vehicle Identification: This is a 2018 Suzuki Alto located in Karachi.
+Technical Specifications: It features a standard engine with manual transmission.
+Features & Add-ons: The car comes equipped with: Leather Seats, Cruise Control, Navigation.
+Market Value: The listed price for this vehicle is PKR 2400000.
+
+--- CAR ENTRY (SEMANTIC) ---
+Vehicle Identification: This is a 2023 Honda Civic located in Karachi.
+Technical Specifications: It features a standard engine with manual transmission.
+Features & Add-ons: The car comes equipped with: Cruise Control, Alloy Rims, Heated Seats.
+Market Value: The listed price for this vehicle is PKR 6900000.
+
+--- CAR ENTRY (SEMANTIC) ---
+Vehicle Identification: This is a 2021 Toyota Camry located in Lahore.
+Technical Specifications: It features a standard engine with manual transmission.
+Features & Add-ons: The car comes equipped with: Sunroof, Leather Seats, Alloy Rims.
+Market Value: The listed price for this vehicle is PKR 1700000.
+
+--- CAR ENTRY (SEMANTIC) ---
+Vehicle Identification: This is a 2018 Honda Accord located in Islamabad.
+Technical Specifications: It features a standard engine with manual transmission.
+Features & Add-ons: The car comes equipped with: Alloy Rims, Cruise Control, Navigation.
+Market Value: The listed price for this vehicle is PKR 6800000.
+
+--- CAR ENTRY (SEMANTIC) ---
+Vehicle Identification: This is a 2024 Toyota Fortuner located in Multan.
+Technical Specifications: It features a standard engine with manual transmission.
+Features & Add-ons: The car comes equipped with: Cruise Control, Navigation, Sunroof.
+Market Value: The listed price for this vehicle is PKR 2200000.
+
+--- CAR ENTRY (SEMANTIC) ---
+Vehicle Identification: This is a 2019 Honda City located in Lahore.
+Technical Specifications: It features a standard engine with manual transmission.
+Features & Add-ons: The car comes equipped with: Alloy Rims, Cruise Control, Leather Seats.
+Market Value: The listed price for this vehicle is PKR 2200000.
+
+--- CAR ENTRY (SEMANTIC) ---
+Vehicle Identification: This is a 2022 Suzuki Swift located in Lahore.
+Technical Specifications: It features a standard engine with manual transmission.
+Features & Add-ons: The car comes equipped with: Alloy Rims, Heated Seats, Navigation.
+Market Value: The listed price for this vehicle is PKR 7900000.
+
+--- CAR ENTRY (SEMANTIC) ---
+Vehicle Identification: This is a 2021 Toyota Fortuner located in Islamabad.
+Technical Specifications: It features a standard engine with manual transmission.
+Features & Add-ons: The car comes equipped with: Sunroof, Navigation, Alloy Rims.
+Market Value: The listed price for this vehicle is PKR 3100000.
+
+--- CAR ENTRY (SEMANTIC) ---
+Vehicle Identification: This is a 2024 Honda BR-V located in Lahore.
+Technical Specifications: It features a standard engine with manual transmission.
+Features & Add-ons: The car comes equipped with: Navigation, Sunroof, Heated Seats.
+Market Value: The listed price for this vehicle is PKR 4800000.
+
+--- CAR ENTRY (SEMANTIC) ---
+Vehicle Identification: This is a 2020 Honda City located in Lahore.
+Technical Specifications: It features a standard engine with manual transmission.
+Features & Add-ons: The car comes equipped with: Cruise Control, Leather Seats, Alloy Rims.
+Market Value: The listed price for this vehicle is PKR 5200000.
+
+--- CAR ENTRY (SEMANTIC) ---
+Vehicle Identification: This is a 2024 Suzuki WagonR located in Lahore.
+Technical Specifications: It features a standard engine with manual transmission.
+Features & Add-ons: The car comes equipped with: Leather Seats, Sunroof, Alloy Rims.
+Market Value: The listed price for this vehicle is PKR 6900000.
+
+--- CAR ENTRY (SEMANTIC) ---
+Vehicle Identification: This is a 2023 Suzuki Cultus located in Lahore.
+Technical Specifications: It features a standard engine with manual transmission.
+Features & Add-ons: The car comes equipped with: Alloy Rims, Cruise Control, Sunroof.
+Market Value: The listed price for this vehicle is PKR 2400000.
+
+--- CAR ENTRY (SEMANTIC) ---
+Vehicle Identification: This is a 2022 Honda Accord located in Lahore.
+Technical Specifications: It features a standard engine with manual transmission.
+Features & Add-ons: The car comes equipped with: Leather Seats, Sunroof, Alloy Rims.
+Market Value: The listed price for this vehicle is PKR 8000000.
+
+--- CAR ENTRY (SEMANTIC) ---
+Vehicle Identification: This is a 2022 Toyota Corolla located in Islamabad.
+Technical Specifications: It features a standard engine with manual transmission.
+Features & Add-ons: The car comes equipped with: Heated Seats, Alloy Rims, Sunroof.
+Market Value: The listed price for this vehicle is PKR 6600000.
+
+--- CAR ENTRY (SEMANTIC) ---
+Vehicle Identification: This is a 2023 Toyota Camry located in Karachi.
+Technical Specifications: It features a standard engine with manual transmission.
+Features & Add-ons: The car comes equipped with: Navigation, Cruise Control, Alloy Rims.
+Market Value: The listed price for this vehicle is PKR 1700000.
+
+--- CAR ENTRY (SEMANTIC) ---
+Vehicle Identification: This is a 2019 Honda City located in Islamabad.
+Technical Specifications: It features a standard engine with manual transmission.
+Features & Add-ons: The car comes equipped with: Alloy Rims, Heated Seats, Sunroof.
+Market Value: The listed price for this vehicle is PKR 2700000.
+
+--- CAR ENTRY (SEMANTIC) ---
+Vehicle Identification: This is a 2021 Honda Accord located in Islamabad.
+Technical Specifications: It features a standard engine with manual transmission.
+Features & Add-ons: The car comes equipped with: Cruise Control, Heated Seats, Sunroof.
+Market Value: The listed price for this vehicle is PKR 7400000.
+
+--- CAR ENTRY (SEMANTIC) ---
+Vehicle Identification: This is a 2023 Toyota Corolla located in Multan.
+Technical Specifications: It features a standard engine with manual transmission.
+Features & Add-ons: The car comes equipped with: Navigation, Cruise Control, Alloy Rims.
+Market Value: The listed price for this vehicle is PKR 7800000.
+
+--- CAR ENTRY (SEMANTIC) ---
+Vehicle Identification: This is a 2023 Suzuki Swift located in Lahore.
+Technical Specifications: It features a standard engine with manual transmission.
+Features & Add-ons: The car comes equipped with: Navigation, Sunroof, Cruise Control.
+Market Value: The listed price for this vehicle is PKR 6700000.
+
+--- CAR ENTRY (SEMANTIC) ---
+Vehicle Identification: This is a 2023 Suzuki Swift located in Islamabad.
+Technical Specifications: It features a standard engine with manual transmission.
+Features & Add-ons: The car comes equipped with: Alloy Rims, Leather Seats, Heated Seats.
+Market Value: The listed price for this vehicle is PKR 3700000.
+
+--- CAR ENTRY (SEMANTIC) ---
+Vehicle Identification: This is a 2024 Toyota Fortuner located in Karachi.
+Technical Specifications: It features a standard engine with manual transmission.
+Features & Add-ons: The car comes equipped with: Sunroof, Cruise Control, Heated Seats.
+Market Value: The listed price for this vehicle is PKR 6100000.
+
+--- CAR ENTRY (SEMANTIC) ---
+Vehicle Identification: This is a 2021 Toyota Yaris located in Islamabad.
+Technical Specifications: It features a standard engine with manual transmission.
+Features & Add-ons: The car comes equipped with: Cruise Control, Sunroof, Alloy Rims.
+Market Value: The listed price for this vehicle is PKR 3300000.
+
+--- CAR ENTRY (SEMANTIC) ---
+Vehicle Identification: This is a 2018 Suzuki WagonR located in Lahore.
+Technical Specifications: It features a standard engine with manual transmission.
+Features & Add-ons: The car comes equipped with: Alloy Rims, Sunroof, Navigation.
+Market Value: The listed price for this vehicle is PKR 5400000.
+
+--- CAR ENTRY (SEMANTIC) ---
+Vehicle Identification: This is a 2018 Toyota Fortuner located in Islamabad.
+Technical Specifications: It features a standard engine with manual transmission.
+Features & Add-ons: The car comes equipped with: Alloy Rims, Navigation, Sunroof.
+Market Value: The listed price for this vehicle is PKR 6300000.
+
+--- CAR ENTRY (SEMANTIC) ---
+Vehicle Identification: This is a 2024 Suzuki WagonR located in Multan.
+Technical Specifications: It features a standard engine with manual transmission.
+Features & Add-ons: The car comes equipped with: Sunroof, Navigation, Alloy Rims.
+Market Value: The listed price for this vehicle is PKR 2900000.
+
+--- CAR ENTRY (SEMANTIC) ---
+Vehicle Identification: This is a 2023 Honda Accord located in Multan.
+Technical Specifications: It features a standard engine with manual transmission.
+Features & Add-ons: The car comes equipped with: Heated Seats, Sunroof, Leather Seats.
+Market Value: The listed price for this vehicle is PKR 5800000.
+
+--- CAR ENTRY (SEMANTIC) ---
+Vehicle Identification: This is a 2022 Honda City located in Karachi.
+Technical Specifications: It features a standard engine with manual transmission.
+Features & Add-ons: The car comes equipped with: Heated Seats, Sunroof, Leather Seats.
+Market Value: The listed price for this vehicle is PKR 7800000.
+
+--- CAR ENTRY (SEMANTIC) ---
+Vehicle Identification: This is a 2021 Honda City located in Karachi.
+Technical Specifications: It features a standard engine with manual transmission.
+Features & Add-ons: The car comes equipped with: Leather Seats, Navigation, Heated Seats.
+Market Value: The listed price for this vehicle is PKR 5400000.
+
+--- CAR ENTRY (SEMANTIC) ---
+Vehicle Identification: This is a 2022 Honda Accord located in Multan.
+Technical Specifications: It features a standard engine with manual transmission.
+Features & Add-ons: The car comes equipped with: Sunroof, Leather Seats, Cruise Control.
+Market Value: The listed price for this vehicle is PKR 6300000.
+
+--- CAR ENTRY (SEMANTIC) ---
+Vehicle Identification: This is a 2022 Toyota Yaris located in Multan.
+Technical Specifications: It features a standard engine with manual transmission.
+Features & Add-ons: The car comes equipped with: Heated Seats, Cruise Control, Sunroof.
+Market Value: The listed price for this vehicle is PKR 7700000.
+
+--- CAR ENTRY (SEMANTIC) ---
+Vehicle Identification: This is a 2023 Toyota Fortuner located in Karachi.
+Technical Specifications: It features a standard engine with manual transmission.
+Features & Add-ons: The car comes equipped with: Navigation, Alloy Rims, Heated Seats.
+Market Value: The listed price for this vehicle is PKR 1800000.
+
+--- CAR ENTRY (SEMANTIC) ---
+Vehicle Identification: This is a 2021 Toyota Fortuner located in Karachi.
+Technical Specifications: It features a standard engine with manual transmission.
+Features & Add-ons: The car comes equipped with: Navigation, Heated Seats, Cruise Control.
+Market Value: The listed price for this vehicle is PKR 6100000.
+
+--- CAR ENTRY (SEMANTIC) ---
+Vehicle Identification: This is a 2020 Honda BR-V located in Islamabad.
+Technical Specifications: It features a standard engine with manual transmission.
+Features & Add-ons: The car comes equipped with: Cruise Control, Leather Seats, Alloy Rims.
+Market Value: The listed price for this vehicle is PKR 2500000.
+
+--- CAR ENTRY (SEMANTIC) ---
+Vehicle Identification: This is a 2022 Honda BR-V located in Islamabad.
+Technical Specifications: It features a standard engine with manual transmission.
+Features & Add-ons: The car comes equipped with: Cruise Control, Leather Seats, Sunroof.
+Market Value: The listed price for this vehicle is PKR 2900000.
+
+--- CAR ENTRY (SEMANTIC) ---
+Vehicle Identification: This is a 2020 Toyota Yaris located in Karachi.
+Technical Specifications: It features a standard engine with manual transmission.
+Features & Add-ons: The car comes equipped with: Alloy Rims, Navigation, Leather Seats.
+Market Value: The listed price for this vehicle is PKR 7600000.
+
+--- CAR ENTRY (SEMANTIC) ---
+Vehicle Identification: This is a 2023 Suzuki Cultus located in Lahore.
+Technical Specifications: It features a standard engine with manual transmission.
+Features & Add-ons: The car comes equipped with: Alloy Rims, Heated Seats, Cruise Control.
+Market Value: The listed price for this vehicle is PKR 2000000.
+
+--- CAR ENTRY (SEMANTIC) ---
+Vehicle Identification: This is a 2018 Honda Civic located in Multan.
+Technical Specifications: It features a standard engine with manual transmission.
+Features & Add-ons: The car comes equipped with: Leather Seats, Cruise Control, Sunroof.
+Market Value: The listed price for this vehicle is PKR 5400000.
+
+--- CAR ENTRY (SEMANTIC) ---
+Vehicle Identification: This is a 2020 Toyota Yaris located in Multan.
+Technical Specifications: It features a standard engine with manual transmission.
+Features & Add-ons: The car comes equipped with: Heated Seats, Cruise Control, Navigation.
+Market Value: The listed price for this vehicle is PKR 6100000.
+
+--- CAR ENTRY (SEMANTIC) ---
+Vehicle Identification: This is a 2021 Honda BR-V located in Multan.
+Technical Specifications: It features a standard engine with manual transmission.
+Features & Add-ons: The car comes equipped with: Sunroof, Cruise Control, Heated Seats.
+Market Value: The listed price for this vehicle is PKR 3300000.

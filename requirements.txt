@@ -1,0 +1,14 @@
+langchain==0.3.0
+langchain-community==0.3.0
+langchain-core==0.3.0
+langchain-groq==0.2.0
+langchain-huggingface==0.1.0
+langchain-text-splitters==0.3.0
+faiss-cpu==1.9.0
+streamlit==1.39.0
+python-dotenv==1.0.1
+transformers==4.45.0
+torch==2.4.1
+sentence-transformers==3.1.0
+pypdf==5.0.0
+watchdog==5.0.0

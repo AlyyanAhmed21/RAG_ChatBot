@@ -1,0 +1,399 @@
+--- CAR ENTRY (GRAPH TRIPLES) ---
+(Suzuki WagonR (CAR-1001)) --[has_year]--> (2024)
+(Suzuki WagonR (CAR-1001)) --[located_in]--> (Islamabad)
+(Suzuki WagonR (CAR-1001)) --[costs]--> (PKR 6900000)
+(Suzuki WagonR (CAR-1001)) --[has_feature]--> (Cruise Control)
+(Suzuki WagonR (CAR-1001)) --[has_feature]--> (Alloy Rims)
+(Suzuki WagonR (CAR-1001)) --[has_feature]--> (Leather Seats)
+
+--- CAR ENTRY (GRAPH TRIPLES) ---
+(Suzuki Cultus (CAR-1002)) --[has_year]--> (2020)
+(Suzuki Cultus (CAR-1002)) --[located_in]--> (Islamabad)
+(Suzuki Cultus (CAR-1002)) --[costs]--> (PKR 2700000)
+(Suzuki Cultus (CAR-1002)) --[has_feature]--> (Sunroof)
+(Suzuki Cultus (CAR-1002)) --[has_feature]--> (Leather Seats)
+(Suzuki Cultus (CAR-1002)) --[has_feature]--> (Navigation)
+
+--- CAR ENTRY (GRAPH TRIPLES) ---
+(Suzuki Cultus (CAR-1003)) --[has_year]--> (2019)
+(Suzuki Cultus (CAR-1003)) --[located_in]--> (Islamabad)
+(Suzuki Cultus (CAR-1003)) --[costs]--> (PKR 3100000)
+(Suzuki Cultus (CAR-1003)) --[has_feature]--> (Sunroof)
+(Suzuki Cultus (CAR-1003)) --[has_feature]--> (Heated Seats)
+(Suzuki Cultus (CAR-1003)) --[has_feature]--> (Leather Seats)
+
+--- CAR ENTRY (GRAPH TRIPLES) ---
+(Honda Accord (CAR-1004)) --[has_year]--> (2020)
+(Honda Accord (CAR-1004)) --[located_in]--> (Islamabad)
+(Honda Accord (CAR-1004)) --[costs]--> (PKR 1800000)
+(Honda Accord (CAR-1004)) --[has_feature]--> (Cruise Control)
+(Honda Accord (CAR-1004)) --[has_feature]--> (Navigation)
+(Honda Accord (CAR-1004)) --[has_feature]--> (Alloy Rims)
+
+--- CAR ENTRY (GRAPH TRIPLES) ---
+(Toyota Yaris (CAR-1005)) --[has_year]--> (2024)
+(Toyota Yaris (CAR-1005)) --[located_in]--> (Karachi)
+(Toyota Yaris (CAR-1005)) --[costs]--> (PKR 6600000)
+(Toyota Yaris (CAR-1005)) --[has_feature]--> (Navigation)
+(Toyota Yaris (CAR-1005)) --[has_feature]--> (Sunroof)
+(Toyota Yaris (CAR-1005)) --[has_feature]--> (Leather Seats)
+
+--- CAR ENTRY (GRAPH TRIPLES) ---
+(Honda Accord (CAR-1006)) --[has_year]--> (2020)
+(Honda Accord (CAR-1006)) --[located_in]--> (Lahore)
+(Honda Accord (CAR-1006)) --[costs]--> (PKR 2000000)
+(Honda Accord (CAR-1006)) --[has_feature]--> (Leather Seats)
+(Honda Accord (CAR-1006)) --[has_feature]--> (Alloy Rims)
+(Honda Accord (CAR-1006)) --[has_feature]--> (Heated Seats)
+
+--- CAR ENTRY (GRAPH TRIPLES) ---
+(Suzuki Cultus (CAR-1007)) --[has_year]--> (2018)
+(Suzuki Cultus (CAR-1007)) --[located_in]--> (Islamabad)
+(Suzuki Cultus (CAR-1007)) --[costs]--> (PKR 3500000)
+(Suzuki Cultus (CAR-1007)) --[has_feature]--> (Heated Seats)
+(Suzuki Cultus (CAR-1007)) --[has_feature]--> (Sunroof)
+(Suzuki Cultus (CAR-1007)) --[has_feature]--> (Leather Seats)
+
+--- CAR ENTRY (GRAPH TRIPLES) ---
+(Honda Civic (CAR-1008)) --[has_year]--> (2021)
+(Honda Civic (CAR-1008)) --[located_in]--> (Multan)
+(Honda Civic (CAR-1008)) --[costs]--> (PKR 2500000)
+(Honda Civic (CAR-1008)) --[has_feature]--> (Alloy Rims)
+(Honda Civic (CAR-1008)) --[has_feature]--> (Heated Seats)
+(Honda Civic (CAR-1008)) --[has_feature]--> (Sunroof)
+
+--- CAR ENTRY (GRAPH TRIPLES) ---
+(Toyota Corolla (CAR-1009)) --[has_year]--> (2024)
+(Toyota Corolla (CAR-1009)) --[located_in]--> (Multan)
+(Toyota Corolla (CAR-1009)) --[costs]--> (PKR 5600000)
+(Toyota Corolla (CAR-1009)) --[has_feature]--> (Heated Seats)
+(Toyota Corolla (CAR-1009)) --[has_feature]--> (Cruise Control)
+(Toyota Corolla (CAR-1009)) --[has_feature]--> (Sunroof)
+
+--- CAR ENTRY (GRAPH TRIPLES) ---
+(Toyota Yaris (CAR-1010)) --[has_year]--> (2019)
+(Toyota Yaris (CAR-1010)) --[located_in]--> (Lahore)
+(Toyota Yaris (CAR-1010)) --[costs]--> (PKR 5200000)
+(Toyota Yaris (CAR-1010)) --[has_feature]--> (Alloy Rims)
+(Toyota Yaris (CAR-1010)) --[has_feature]--> (Leather Seats)
+(Toyota Yaris (CAR-1010)) --[has_feature]--> (Sunroof)
+
+--- CAR ENTRY (GRAPH TRIPLES) ---
+(Honda BR-V (CAR-1011)) --[has_year]--> (2020)
+(Honda BR-V (CAR-1011)) --[located_in]--> (Multan)
+(Honda BR-V (CAR-1011)) --[costs]--> (PKR 2200000)
+(Honda BR-V (CAR-1011)) --[has_feature]--> (Navigation)
+(Honda BR-V (CAR-1011)) --[has_feature]--> (Leather Seats)
+(Honda BR-V (CAR-1011)) --[has_feature]--> (Cruise Control)
+
+--- CAR ENTRY (GRAPH TRIPLES) ---
+(Suzuki Alto (CAR-1012)) --[has_year]--> (2018)
+(Suzuki Alto (CAR-1012)) --[located_in]--> (Karachi)
+(Suzuki Alto (CAR-1012)) --[costs]--> (PKR 2400000)
+(Suzuki Alto (CAR-1012)) --[has_feature]--> (Leather Seats)
+(Suzuki Alto (CAR-1012)) --[has_feature]--> (Cruise Control)
+(Suzuki Alto (CAR-1012)) --[has_feature]--> (Navigation)
+
+--- CAR ENTRY (GRAPH TRIPLES) ---
+(Honda Civic (CAR-1013)) --[has_year]--> (2023)
+(Honda Civic (CAR-1013)) --[located_in]--> (Karachi)
+(Honda Civic (CAR-1013)) --[costs]--> (PKR 6900000)
+(Honda Civic (CAR-1013)) --[has_feature]--> (Cruise Control)
+(Honda Civic (CAR-1013)) --[has_feature]--> (Alloy Rims)
+(Honda Civic (CAR-1013)) --[has_feature]--> (Heated Seats)
+
+--- CAR ENTRY (GRAPH TRIPLES) ---
+(Toyota Camry (CAR-1014)) --[has_year]--> (2021)
+(Toyota Camry (CAR-1014)) --[located_in]--> (Lahore)
+(Toyota Camry (CAR-1014)) --[costs]--> (PKR 1700000)
+(Toyota Camry (CAR-1014)) --[has_feature]--> (Sunroof)
+(Toyota Camry (CAR-1014)) --[has_feature]--> (Leather Seats)
+(Toyota Camry (CAR-1014)) --[has_feature]--> (Alloy Rims)
+
+--- CAR ENTRY (GRAPH TRIPLES) ---
+(Honda Accord (CAR-1015)) --[has_year]--> (2018)
+(Honda Accord (CAR-1015)) --[located_in]--> (Islamabad)
+(Honda Accord (CAR-1015)) --[costs]--> (PKR 6800000)
+(Honda Accord (CAR-1015)) --[has_feature]--> (Alloy Rims)
+(Honda Accord (CAR-1015)) --[has_feature]--> (Cruise Control)
+(Honda Accord (CAR-1015)) --[has_feature]--> (Navigation)
+
+--- CAR ENTRY (GRAPH TRIPLES) ---
+(Toyota Fortuner (CAR-1016)) --[has_year]--> (2024)
+(Toyota Fortuner (CAR-1016)) --[located_in]--> (Multan)
+(Toyota Fortuner (CAR-1016)) --[costs]--> (PKR 2200000)
+(Toyota Fortuner (CAR-1016)) --[has_feature]--> (Cruise Control)
+(Toyota Fortuner (CAR-1016)) --[has_feature]--> (Navigation)
+(Toyota Fortuner (CAR-1016)) --[has_feature]--> (Sunroof)
+
+--- CAR ENTRY (GRAPH TRIPLES) ---
+(Honda City (CAR-1017)) --[has_year]--> (2019)
+(Honda City (CAR-1017)) --[located_in]--> (Lahore)
+(Honda City (CAR-1017)) --[costs]--> (PKR 2200000)
+(Honda City (CAR-1017)) --[has_feature]--> (Alloy Rims)
+(Honda City (CAR-1017)) --[has_feature]--> (Cruise Control)
+(Honda City (CAR-1017)) --[has_feature]--> (Leather Seats)
+
+--- CAR ENTRY (GRAPH TRIPLES) ---
+(Suzuki Swift (CAR-1018)) --[has_year]--> (2022)
+(Suzuki Swift (CAR-1018)) --[located_in]--> (Lahore)
+(Suzuki Swift (CAR-1018)) --[costs]--> (PKR 7900000)
+(Suzuki Swift (CAR-1018)) --[has_feature]--> (Alloy Rims)
+(Suzuki Swift (CAR-1018)) --[has_feature]--> (Heated Seats)
+(Suzuki Swift (CAR-1018)) --[has_feature]--> (Navigation)
+
+--- CAR ENTRY (GRAPH TRIPLES) ---
+(Toyota Fortuner (CAR-1019)) --[has_year]--> (2021)
+(Toyota Fortuner (CAR-1019)) --[located_in]--> (Islamabad)
+(Toyota Fortuner (CAR-1019)) --[costs]--> (PKR 3100000)
+(Toyota Fortuner (CAR-1019)) --[has_feature]--> (Sunroof)
+(Toyota Fortuner (CAR-1019)) --[has_feature]--> (Navigation)
+(Toyota Fortuner (CAR-1019)) --[has_feature]--> (Alloy Rims)
+
+--- CAR ENTRY (GRAPH TRIPLES) ---
+(Honda BR-V (CAR-1020)) --[has_year]--> (2024)
+(Honda BR-V (CAR-1020)) --[located_in]--> (Lahore)
+(Honda BR-V (CAR-1020)) --[costs]--> (PKR 4800000)
+(Honda BR-V (CAR-1020)) --[has_feature]--> (Navigation)
+(Honda BR-V (CAR-1020)) --[has_feature]--> (Sunroof)
+(Honda BR-V (CAR-1020)) --[has_feature]--> (Heated Seats)
+
+--- CAR ENTRY (GRAPH TRIPLES) ---
+(Honda City (CAR-1021)) --[has_year]--> (2020)
+(Honda City (CAR-1021)) --[located_in]--> (Lahore)
+(Honda City (CAR-1021)) --[costs]--> (PKR 5200000)
+(Honda City (CAR-1021)) --[has_feature]--> (Cruise Control)
+(Honda City (CAR-1021)) --[has_feature]--> (Leather Seats)
+(Honda City (CAR-1021)) --[has_feature]--> (Alloy Rims)
+
+--- CAR ENTRY (GRAPH TRIPLES) ---
+(Suzuki WagonR (CAR-1022)) --[has_year]--> (2024)
+(Suzuki WagonR (CAR-1022)) --[located_in]--> (Lahore)
+(Suzuki WagonR (CAR-1022)) --[costs]--> (PKR 6900000)
+(Suzuki WagonR (CAR-1022)) --[has_feature]--> (Leather Seats)
+(Suzuki WagonR (CAR-1022)) --[has_feature]--> (Sunroof)
+(Suzuki WagonR (CAR-1022)) --[has_feature]--> (Alloy Rims)
+
+--- CAR ENTRY (GRAPH TRIPLES) ---
+(Suzuki Cultus (CAR-1023)) --[has_year]--> (2023)
+(Suzuki Cultus (CAR-1023)) --[located_in]--> (Lahore)
+(Suzuki Cultus (CAR-1023)) --[costs]--> (PKR 2400000)
+(Suzuki Cultus (CAR-1023)) --[has_feature]--> (Alloy Rims)
+(Suzuki Cultus (CAR-1023)) --[has_feature]--> (Cruise Control)
+(Suzuki Cultus (CAR-1023)) --[has_feature]--> (Sunroof)
+
+--- CAR ENTRY (GRAPH TRIPLES) ---
+(Honda Accord (CAR-1024)) --[has_year]--> (2022)
+(Honda Accord (CAR-1024)) --[located_in]--> (Lahore)
+(Honda Accord (CAR-1024)) --[costs]--> (PKR 8000000)
+(Honda Accord (CAR-1024)) --[has_feature]--> (Leather Seats)
+(Honda Accord (CAR-1024)) --[has_feature]--> (Sunroof)
+(Honda Accord (CAR-1024)) --[has_feature]--> (Alloy Rims)
+
+--- CAR ENTRY (GRAPH TRIPLES) ---
+(Toyota Corolla (CAR-1025)) --[has_year]--> (2022)
+(Toyota Corolla (CAR-1025)) --[located_in]--> (Islamabad)
+(Toyota Corolla (CAR-1025)) --[costs]--> (PKR 6600000)
+(Toyota Corolla (CAR-1025)) --[has_feature]--> (Heated Seats)
+(Toyota Corolla (CAR-1025)) --[has_feature]--> (Alloy Rims)
+(Toyota Corolla (CAR-1025)) --[has_feature]--> (Sunroof)
+
+--- CAR ENTRY (GRAPH TRIPLES) ---
+(Toyota Camry (CAR-1026)) --[has_year]--> (2023)
+(Toyota Camry (CAR-1026)) --[located_in]--> (Karachi)
+(Toyota Camry (CAR-1026)) --[costs]--> (PKR 1700000)
+(Toyota Camry (CAR-1026)) --[has_feature]--> (Navigation)
+(Toyota Camry (CAR-1026)) --[has_feature]--> (Cruise Control)
+(Toyota Camry (CAR-1026)) --[has_feature]--> (Alloy Rims)
+
+--- CAR ENTRY (GRAPH TRIPLES) ---
+(Honda City (CAR-1027)) --[has_year]--> (2019)
+(Honda City (CAR-1027)) --[located_in]--> (Islamabad)
+(Honda City (CAR-1027)) --[costs]--> (PKR 2700000)
+(Honda City (CAR-1027)) --[has_feature]--> (Alloy Rims)
+(Honda City (CAR-1027)) --[has_feature]--> (Heated Seats)
+(Honda City (CAR-1027)) --[has_feature]--> (Sunroof)
+
+--- CAR ENTRY (GRAPH TRIPLES) ---
+(Honda Accord (CAR-1028)) --[has_year]--> (2021)
+(Honda Accord (CAR-1028)) --[located_in]--> (Islamabad)
+(Honda Accord (CAR-1028)) --[costs]--> (PKR 7400000)
+(Honda Accord (CAR-1028)) --[has_feature]--> (Cruise Control)
+(Honda Accord (CAR-1028)) --[has_feature]--> (Heated Seats)
+(Honda Accord (CAR-1028)) --[has_feature]--> (Sunroof)
+
+--- CAR ENTRY (GRAPH TRIPLES) ---
+(Toyota Corolla (CAR-1029)) --[has_year]--> (2023)
+(Toyota Corolla (CAR-1029)) --[located_in]--> (Multan)
+(Toyota Corolla (CAR-1029)) --[costs]--> (PKR 7800000)
+(Toyota Corolla (CAR-1029)) --[has_feature]--> (Navigation)
+(Toyota Corolla (CAR-1029)) --[has_feature]--> (Cruise Control)
+(Toyota Corolla (CAR-1029)) --[has_feature]--> (Alloy Rims)
+
+--- CAR ENTRY (GRAPH TRIPLES) ---
+(Suzuki Swift (CAR-1030)) --[has_year]--> (2023)
+(Suzuki Swift (CAR-1030)) --[located_in]--> (Lahore)
+(Suzuki Swift (CAR-1030)) --[costs]--> (PKR 6700000)
+(Suzuki Swift (CAR-1030)) --[has_feature]--> (Navigation)
+(Suzuki Swift (CAR-1030)) --[has_feature]--> (Sunroof)
+(Suzuki Swift (CAR-1030)) --[has_feature]--> (Cruise Control)
+
+--- CAR ENTRY (GRAPH TRIPLES) ---
+(Suzuki Swift (CAR-1031)) --[has_year]--> (2023)
+(Suzuki Swift (CAR-1031)) --[located_in]--> (Islamabad)
+(Suzuki Swift (CAR-1031)) --[costs]--> (PKR 3700000)
+(Suzuki Swift (CAR-1031)) --[has_feature]--> (Alloy Rims)
+(Suzuki Swift (CAR-1031)) --[has_feature]--> (Leather Seats)
+(Suzuki Swift (CAR-1031)) --[has_feature]--> (Heated Seats)
+
+--- CAR ENTRY (GRAPH TRIPLES) ---
+(Toyota Fortuner (CAR-1032)) --[has_year]--> (2024)
+(Toyota Fortuner (CAR-1032)) --[located_in]--> (Karachi)
+(Toyota Fortuner (CAR-1032)) --[costs]--> (PKR 6100000)
+(Toyota Fortuner (CAR-1032)) --[has_feature]--> (Sunroof)
+(Toyota Fortuner (CAR-1032)) --[has_feature]--> (Cruise Control)
+(Toyota Fortuner (CAR-1032)) --[has_feature]--> (Heated Seats)
+
+--- CAR ENTRY (GRAPH TRIPLES) ---
+(Toyota Yaris (CAR-1033)) --[has_year]--> (2021)
+(Toyota Yaris (CAR-1033)) --[located_in]--> (Islamabad)
+(Toyota Yaris (CAR-1033)) --[costs]--> (PKR 3300000)
+(Toyota Yaris (CAR-1033)) --[has_feature]--> (Cruise Control)
+(Toyota Yaris (CAR-1033)) --[has_feature]--> (Sunroof)
+(Toyota Yaris (CAR-1033)) --[has_feature]--> (Alloy Rims)
+
+--- CAR ENTRY (GRAPH TRIPLES) ---
+(Suzuki WagonR (CAR-1034)) --[has_year]--> (2018)
+(Suzuki WagonR (CAR-1034)) --[located_in]--> (Lahore)
+(Suzuki WagonR (CAR-1034)) --[costs]--> (PKR 5400000)
+(Suzuki WagonR (CAR-1034)) --[has_feature]--> (Alloy Rims)
+(Suzuki WagonR (CAR-1034)) --[has_feature]--> (Sunroof)
+(Suzuki WagonR (CAR-1034)) --[has_feature]--> (Navigation)
+
+--- CAR ENTRY (GRAPH TRIPLES) ---
+(Toyota Fortuner (CAR-1035)) --[has_year]--> (2018)
+(Toyota Fortuner (CAR-1035)) --[located_in]--> (Islamabad)
+(Toyota Fortuner (CAR-1035)) --[costs]--> (PKR 6300000)
+(Toyota Fortuner (CAR-1035)) --[has_feature]--> (Alloy Rims)
+(Toyota Fortuner (CAR-1035)) --[has_feature]--> (Navigation)
+(Toyota Fortuner (CAR-1035)) --[has_feature]--> (Sunroof)
+
+--- CAR ENTRY (GRAPH TRIPLES) ---
+(Suzuki WagonR (CAR-1036)) --[has_year]--> (2024)
+(Suzuki WagonR (CAR-1036)) --[located_in]--> (Multan)
+(Suzuki WagonR (CAR-1036)) --[costs]--> (PKR 2900000)
+(Suzuki WagonR (CAR-1036)) --[has_feature]--> (Sunroof)
+(Suzuki WagonR (CAR-1036)) --[has_feature]--> (Navigation)
+(Suzuki WagonR (CAR-1036)) --[has_feature]--> (Alloy Rims)
+
+--- CAR ENTRY (GRAPH TRIPLES) ---
+(Honda Accord (CAR-1037)) --[has_year]--> (2023)
+(Honda Accord (CAR-1037)) --[located_in]--> (Multan)
+(Honda Accord (CAR-1037)) --[costs]--> (PKR 5800000)
+(Honda Accord (CAR-1037)) --[has_feature]--> (Heated Seats)
+(Honda Accord (CAR-1037)) --[has_feature]--> (Sunroof)
+(Honda Accord (CAR-1037)) --[has_feature]--> (Leather Seats)
+
+--- CAR ENTRY (GRAPH TRIPLES) ---
+(Honda City (CAR-1038)) --[has_year]--> (2022)
+(Honda City (CAR-1038)) --[located_in]--> (Karachi)
+(Honda City (CAR-1038)) --[costs]--> (PKR 7800000)
+(Honda City (CAR-1038)) --[has_feature]--> (Heated Seats)
+(Honda City (CAR-1038)) --[has_feature]--> (Sunroof)
+(Honda City (CAR-1038)) --[has_feature]--> (Leather Seats)
+
+--- CAR ENTRY (GRAPH TRIPLES) ---
+(Honda City (CAR-1039)) --[has_year]--> (2021)
+(Honda City (CAR-1039)) --[located_in]--> (Karachi)
+(Honda City (CAR-1039)) --[costs]--> (PKR 5400000)
+(Honda City (CAR-1039)) --[has_feature]--> (Leather Seats)
+(Honda City (CAR-1039)) --[has_feature]--> (Navigation)
+(Honda City (CAR-1039)) --[has_feature]--> (Heated Seats)
+
+--- CAR ENTRY (GRAPH TRIPLES) ---
+(Honda Accord (CAR-1040)) --[has_year]--> (2022)
+(Honda Accord (CAR-1040)) --[located_in]--> (Multan)
+(Honda Accord (CAR-1040)) --[costs]--> (PKR 6300000)
+(Honda Accord (CAR-1040)) --[has_feature]--> (Sunroof)
+(Honda Accord (CAR-1040)) --[has_feature]--> (Leather Seats)
+(Honda Accord (CAR-1040)) --[has_feature]--> (Cruise Control)
+
+--- CAR ENTRY (GRAPH TRIPLES) ---
+(Toyota Yaris (CAR-1041)) --[has_year]--> (2022)
+(Toyota Yaris (CAR-1041)) --[located_in]--> (Multan)
+(Toyota Yaris (CAR-1041)) --[costs]--> (PKR 7700000)
+(Toyota Yaris (CAR-1041)) --[has_feature]--> (Heated Seats)
+(Toyota Yaris (CAR-1041)) --[has_feature]--> (Cruise Control)
+(Toyota Yaris (CAR-1041)) --[has_feature]--> (Sunroof)
+
+--- CAR ENTRY (GRAPH TRIPLES) ---
+(Toyota Fortuner (CAR-1042)) --[has_year]--> (2023)
+(Toyota Fortuner (CAR-1042)) --[located_in]--> (Karachi)
+(Toyota Fortuner (CAR-1042)) --[costs]--> (PKR 1800000)
+(Toyota Fortuner (CAR-1042)) --[has_feature]--> (Navigation)
+(Toyota Fortuner (CAR-1042)) --[has_feature]--> (Alloy Rims)
+(Toyota Fortuner (CAR-1042)) --[has_feature]--> (Heated Seats)
+
+--- CAR ENTRY (GRAPH TRIPLES) ---
+(Toyota Fortuner (CAR-1043)) --[has_year]--> (2021)
+(Toyota Fortuner (CAR-1043)) --[located_in]--> (Karachi)
+(Toyota Fortuner (CAR-1043)) --[costs]--> (PKR 6100000)
+(Toyota Fortuner (CAR-1043)) --[has_feature]--> (Navigation)
+(Toyota Fortuner (CAR-1043)) --[has_feature]--> (Heated Seats)
+(Toyota Fortuner (CAR-1043)) --[has_feature]--> (Cruise Control)
+
+--- CAR ENTRY (GRAPH TRIPLES) ---
+(Honda BR-V (CAR-1044)) --[has_year]--> (2020)
+(Honda BR-V (CAR-1044)) --[located_in]--> (Islamabad)
+(Honda BR-V (CAR-1044)) --[costs]--> (PKR 2500000)
+(Honda BR-V (CAR-1044)) --[has_feature]--> (Cruise Control)
+(Honda BR-V (CAR-1044)) --[has_feature]--> (Leather Seats)
+(Honda BR-V (CAR-1044)) --[has_feature]--> (Alloy Rims)
+
+--- CAR ENTRY (GRAPH TRIPLES) ---
+(Honda BR-V (CAR-1045)) --[has_year]--> (2022)
+(Honda BR-V (CAR-1045)) --[located_in]--> (Islamabad)
+(Honda BR-V (CAR-1045)) --[costs]--> (PKR 2900000)
+(Honda BR-V (CAR-1045)) --[has_feature]--> (Cruise Control)
+(Honda BR-V (CAR-1045)) --[has_feature]--> (Leather Seats)
+(Honda BR-V (CAR-1045)) --[has_feature]--> (Sunroof)
+
+--- CAR ENTRY (GRAPH TRIPLES) ---
+(Toyota Yaris (CAR-1046)) --[has_year]--> (2020)
+(Toyota Yaris (CAR-1046)) --[located_in]--> (Karachi)
+(Toyota Yaris (CAR-1046)) --[costs]--> (PKR 7600000)
+(Toyota Yaris (CAR-1046)) --[has_feature]--> (Alloy Rims)
+(Toyota Yaris (CAR-1046)) --[has_feature]--> (Navigation)
+(Toyota Yaris (CAR-1046)) --[has_feature]--> (Leather Seats)
+
+--- CAR ENTRY (GRAPH TRIPLES) ---
+(Suzuki Cultus (CAR-1047)) --[has_year]--> (2023)
+(Suzuki Cultus (CAR-1047)) --[located_in]--> (Lahore)
+(Suzuki Cultus (CAR-1047)) --[costs]--> (PKR 2000000)
+(Suzuki Cultus (CAR-1047)) --[has_feature]--> (Alloy Rims)
+(Suzuki Cultus (CAR-1047)) --[has_feature]--> (Heated Seats)
+(Suzuki Cultus (CAR-1047)) --[has_feature]--> (Cruise Control)
+
+--- CAR ENTRY (GRAPH TRIPLES) ---
+(Honda Civic (CAR-1048)) --[has_year]--> (2018)
+(Honda Civic (CAR-1048)) --[located_in]--> (Multan)
+(Honda Civic (CAR-1048)) --[costs]--> (PKR 5400000)
+(Honda Civic (CAR-1048)) --[has_feature]--> (Leather Seats)
+(Honda Civic (CAR-1048)) --[has_feature]--> (Cruise Control)
+(Honda Civic (CAR-1048)) --[has_feature]--> (Sunroof)
+
+--- CAR ENTRY (GRAPH TRIPLES) ---
+(Toyota Yaris (CAR-1049)) --[has_year]--> (2020)
+(Toyota Yaris (CAR-1049)) --[located_in]--> (Multan)
+(Toyota Yaris (CAR-1049)) --[costs]--> (PKR 6100000)
+(Toyota Yaris (CAR-1049)) --[has_feature]--> (Heated Seats)
+(Toyota Yaris (CAR-1049)) --[has_feature]--> (Cruise Control)
+(Toyota Yaris (CAR-1049)) --[has_feature]--> (Navigation)
+
+--- CAR ENTRY (GRAPH TRIPLES) ---
+(Honda BR-V (CAR-1050)) --[has_year]--> (2021)
+(Honda BR-V (CAR-1050)) --[located_in]--> (Multan)
+(Honda BR-V (CAR-1050)) --[costs]--> (PKR 3300000)
+(Honda BR-V (CAR-1050)) --[has_feature]--> (Sunroof)
+(Honda BR-V (CAR-1050)) --[has_feature]--> (Cruise Control)
+(Honda BR-V (CAR-1050)) --[has_feature]--> (Heated Seats)

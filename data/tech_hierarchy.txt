@@ -1,0 +1,149 @@
+--- CAR ENTRY (HIERARCHY) ---
+{"id": "CAR-1001", "make": "Suzuki", "model": "WagonR", "year": 2024, "price": "PKR 6900000", "location": {"city": "Islamabad", "province": "Federal"}, "specs": {"engine": "1.5L", "transmission": "Automatic"}, "features": ["Cruise Control", "Alloy Rims", "Leather Seats"]}
+
+--- CAR ENTRY (HIERARCHY) ---
+{"id": "CAR-1002", "make": "Suzuki", "model": "Cultus", "year": 2020, "price": "PKR 2700000", "location": {"city": "Islamabad", "province": "Federal"}, "specs": {"engine": "1.0L", "transmission": "Automatic"}, "features": ["Sunroof", "Leather Seats", "Navigation"]}
+
+--- CAR ENTRY (HIERARCHY) ---
+{"id": "CAR-1003", "make": "Suzuki", "model": "Cultus", "year": 2019, "price": "PKR 3100000", "location": {"city": "Islamabad", "province": "Federal"}, "specs": {"engine": "1.0L", "transmission": "CVT"}, "features": ["Sunroof", "Heated Seats", "Leather Seats"]}
+
+--- CAR ENTRY (HIERARCHY) ---
+{"id": "CAR-1004", "make": "Honda", "model": "Accord", "year": 2020, "price": "PKR 1800000", "location": {"city": "Islamabad", "province": "Federal"}, "specs": {"engine": "1.0L", "transmission": "CVT"}, "features": ["Cruise Control", "Navigation", "Alloy Rims"]}
+
+--- CAR ENTRY (HIERARCHY) ---
+{"id": "CAR-1005", "make": "Toyota", "model": "Yaris", "year": 2024, "price": "PKR 6600000", "location": {"city": "Karachi", "province": "Sindh"}, "specs": {"engine": "1.5L", "transmission": "Automatic"}, "features": ["Navigation", "Sunroof", "Leather Seats"]}
+
+--- CAR ENTRY (HIERARCHY) ---
+{"id": "CAR-1006", "make": "Honda", "model": "Accord", "year": 2020, "price": "PKR 2000000", "location": {"city": "Lahore", "province": "Punjab"}, "specs": {"engine": "1.0L", "transmission": "Manual"}, "features": ["Leather Seats", "Alloy Rims", "Heated Seats"]}
+
+--- CAR ENTRY (HIERARCHY) ---
+{"id": "CAR-1007", "make": "Suzuki", "model": "Cultus", "year": 2018, "price": "PKR 3500000", "location": {"city": "Islamabad", "province": "Federal"}, "specs": {"engine": "1.0L", "transmission": "Manual"}, "features": ["Heated Seats", "Sunroof", "Leather Seats"]}
+
+--- CAR ENTRY (HIERARCHY) ---
+{"id": "CAR-1008", "make": "Honda", "model": "Civic", "year": 2021, "price": "PKR 2500000", "location": {"city": "Multan", "province": "Punjab"}, "specs": {"engine": "1.8L", "transmission": "Manual"}, "features": ["Alloy Rims", "Heated Seats", "Sunroof"]}
+
+--- CAR ENTRY (HIERARCHY) ---
+{"id": "CAR-1009", "make": "Toyota", "model": "Corolla", "year": 2024, "price": "PKR 5600000", "location": {"city": "Multan", "province": "Punjab"}, "specs": {"engine": "1.5L", "transmission": "Automatic"}, "features": ["Heated Seats", "Cruise Control", "Sunroof"]}
+
+--- CAR ENTRY (HIERARCHY) ---
+{"id": "CAR-1010", "make": "Toyota", "model": "Yaris", "year": 2019, "price": "PKR 5200000", "location": {"city": "Lahore", "province": "Punjab"}, "specs": {"engine": "1.0L", "transmission": "CVT"}, "features": ["Alloy Rims", "Leather Seats", "Sunroof"]}
+
+--- CAR ENTRY (HIERARCHY) ---
+{"id": "CAR-1011", "make": "Honda", "model": "BR-V", "year": 2020, "price": "PKR 2200000", "location": {"city": "Multan", "province": "Punjab"}, "specs": {"engine": "1.0L", "transmission": "CVT"}, "features": ["Navigation", "Leather Seats", "Cruise Control"]}
+
+--- CAR ENTRY (HIERARCHY) ---
+{"id": "CAR-1012", "make": "Suzuki", "model": "Alto", "year": 2018, "price": "PKR 2400000", "location": {"city": "Karachi", "province": "Sindh"}, "specs": {"engine": "1.3L", "transmission": "CVT"}, "features": ["Leather Seats", "Cruise Control", "Navigation"]}
+
+--- CAR ENTRY (HIERARCHY) ---
+{"id": "CAR-1013", "make": "Honda", "model": "Civic", "year": 2023, "price": "PKR 6900000", "location": {"city": "Karachi", "province": "Sindh"}, "specs": {"engine": "1.5L", "transmission": "Manual"}, "features": ["Cruise Control", "Alloy Rims", "Heated Seats"]}
+
+--- CAR ENTRY (HIERARCHY) ---
+{"id": "CAR-1014", "make": "Toyota", "model": "Camry", "year": 2021, "price": "PKR 1700000", "location": {"city": "Lahore", "province": "Punjab"}, "specs": {"engine": "1.3L", "transmission": "CVT"}, "features": ["Sunroof", "Leather Seats", "Alloy Rims"]}
+
+--- CAR ENTRY (HIERARCHY) ---
+{"id": "CAR-1015", "make": "Honda", "model": "Accord", "year": 2018, "price": "PKR 6800000", "location": {"city": "Islamabad", "province": "Federal"}, "specs": {"engine": "1.3L", "transmission": "Manual"}, "features": ["Alloy Rims", "Cruise Control", "Navigation"]}
+
+--- CAR ENTRY (HIERARCHY) ---
+{"id": "CAR-1016", "make": "Toyota", "model": "Fortuner", "year": 2024, "price": "PKR 2200000", "location": {"city": "Multan", "province": "Punjab"}, "specs": {"engine": "1.5L", "transmission": "Manual"}, "features": ["Cruise Control", "Navigation", "Sunroof"]}
+
+--- CAR ENTRY (HIERARCHY) ---
+{"id": "CAR-1017", "make": "Honda", "model": "City", "year": 2019, "price": "PKR 2200000", "location": {"city": "Lahore", "province": "Punjab"}, "specs": {"engine": "1.0L", "transmission": "Automatic"}, "features": ["Alloy Rims", "Cruise Control", "Leather Seats"]}
+
+--- CAR ENTRY (HIERARCHY) ---
+{"id": "CAR-1018", "make": "Suzuki", "model": "Swift", "year": 2022, "price": "PKR 7900000", "location": {"city": "Lahore", "province": "Punjab"}, "specs": {"engine": "1.8L", "transmission": "Automatic"}, "features": ["Alloy Rims", "Heated Seats", "Navigation"]}
+
+--- CAR ENTRY (HIERARCHY) ---
+{"id": "CAR-1019", "make": "Toyota", "model": "Fortuner", "year": 2021, "price": "PKR 3100000", "location": {"city": "Islamabad", "province": "Federal"}, "specs": {"engine": "1.0L", "transmission": "CVT"}, "features": ["Sunroof", "Navigation", "Alloy Rims"]}
+
+--- CAR ENTRY (HIERARCHY) ---
+{"id": "CAR-1020", "make": "Honda", "model": "BR-V", "year": 2024, "price": "PKR 4800000", "location": {"city": "Lahore", "province": "Punjab"}, "specs": {"engine": "1.5L", "transmission": "CVT"}, "features": ["Navigation", "Sunroof", "Heated Seats"]}
+
+--- CAR ENTRY (HIERARCHY) ---
+{"id": "CAR-1021", "make": "Honda", "model": "City", "year": 2020, "price": "PKR 5200000", "location": {"city": "Lahore", "province": "Punjab"}, "specs": {"engine": "1.5L", "transmission": "Manual"}, "features": ["Cruise Control", "Leather Seats", "Alloy Rims"]}
+
+--- CAR ENTRY (HIERARCHY) ---
+{"id": "CAR-1022", "make": "Suzuki", "model": "WagonR", "year": 2024, "price": "PKR 6900000", "location": {"city": "Lahore", "province": "Punjab"}, "specs": {"engine": "1.3L", "transmission": "CVT"}, "features": ["Leather Seats", "Sunroof", "Alloy Rims"]}
+
+--- CAR ENTRY (HIERARCHY) ---
+{"id": "CAR-1023", "make": "Suzuki", "model": "Cultus", "year": 2023, "price": "PKR 2400000", "location": {"city": "Lahore", "province": "Punjab"}, "specs": {"engine": "1.0L", "transmission": "Automatic"}, "features": ["Alloy Rims", "Cruise Control", "Sunroof"]}
+
+--- CAR ENTRY (HIERARCHY) ---
+{"id": "CAR-1024", "make": "Honda", "model": "Accord", "year": 2022, "price": "PKR 8000000", "location": {"city": "Lahore", "province": "Punjab"}, "specs": {"engine": "1.8L", "transmission": "CVT"}, "features": ["Leather Seats", "Sunroof", "Alloy Rims"]}
+
+--- CAR ENTRY (HIERARCHY) ---
+{"id": "CAR-1025", "make": "Toyota", "model": "Corolla", "year": 2022, "price": "PKR 6600000", "location": {"city": "Islamabad", "province": "Federal"}, "specs": {"engine": "1.0L", "transmission": "Manual"}, "features": ["Heated Seats", "Alloy Rims", "Sunroof"]}
+
+--- CAR ENTRY (HIERARCHY) ---
+{"id": "CAR-1026", "make": "Toyota", "model": "Camry", "year": 2023, "price": "PKR 1700000", "location": {"city": "Karachi", "province": "Sindh"}, "specs": {"engine": "1.8L", "transmission": "Automatic"}, "features": ["Navigation", "Cruise Control", "Alloy Rims"]}
+
+--- CAR ENTRY (HIERARCHY) ---
+{"id": "CAR-1027", "make": "Honda", "model": "City", "year": 2019, "price": "PKR 2700000", "location": {"city": "Islamabad", "province": "Federal"}, "specs": {"engine": "1.8L", "transmission": "CVT"}, "features": ["Alloy Rims", "Heated Seats", "Sunroof"]}
+
+--- CAR ENTRY (HIERARCHY) ---
+{"id": "CAR-1028", "make": "Honda", "model": "Accord", "year": 2021, "price": "PKR 7400000", "location": {"city": "Islamabad", "province": "Federal"}, "specs": {"engine": "1.3L", "transmission": "Manual"}, "features": ["Cruise Control", "Heated Seats", "Sunroof"]}
+
+--- CAR ENTRY (HIERARCHY) ---
+{"id": "CAR-1029", "make": "Toyota", "model": "Corolla", "year": 2023, "price": "PKR 7800000", "location": {"city": "Multan", "province": "Punjab"}, "specs": {"engine": "1.5L", "transmission": "Manual"}, "features": ["Navigation", "Cruise Control", "Alloy Rims"]}
+
+--- CAR ENTRY (HIERARCHY) ---
+{"id": "CAR-1030", "make": "Suzuki", "model": "Swift", "year": 2023, "price": "PKR 6700000", "location": {"city": "Lahore", "province": "Punjab"}, "specs": {"engine": "1.5L", "transmission": "CVT"}, "features": ["Navigation", "Sunroof", "Cruise Control"]}
+
+--- CAR ENTRY (HIERARCHY) ---
+{"id": "CAR-1031", "make": "Suzuki", "model": "Swift", "year": 2023, "price": "PKR 3700000", "location": {"city": "Islamabad", "province": "Federal"}, "specs": {"engine": "1.5L", "transmission": "CVT"}, "features": ["Alloy Rims", "Leather Seats", "Heated Seats"]}
+
+--- CAR ENTRY (HIERARCHY) ---
+{"id": "CAR-1032", "make": "Toyota", "model": "Fortuner", "year": 2024, "price": "PKR 6100000", "location": {"city": "Karachi", "province": "Sindh"}, "specs": {"engine": "1.3L", "transmission": "Automatic"}, "features": ["Sunroof", "Cruise Control", "Heated Seats"]}
+
+--- CAR ENTRY (HIERARCHY) ---
+{"id": "CAR-1033", "make": "Toyota", "model": "Yaris", "year": 2021, "price": "PKR 3300000", "location": {"city": "Islamabad", "province": "Federal"}, "specs": {"engine": "1.3L", "transmission": "Manual"}, "features": ["Cruise Control", "Sunroof", "Alloy Rims"]}
+
+--- CAR ENTRY (HIERARCHY) ---
+{"id": "CAR-1034", "make": "Suzuki", "model": "WagonR", "year": 2018, "price": "PKR 5400000", "location": {"city": "Lahore", "province": "Punjab"}, "specs": {"engine": "1.0L", "transmission": "Automatic"}, "features": ["Alloy Rims", "Sunroof", "Navigation"]}
+
+--- CAR ENTRY (HIERARCHY) ---
+{"id": "CAR-1035", "make": "Toyota", "model": "Fortuner", "year": 2018, "price": "PKR 6300000", "location": {"city": "Islamabad", "province": "Federal"}, "specs": {"engine": "1.0L", "transmission": "Automatic"}, "features": ["Alloy Rims", "Navigation", "Sunroof"]}
+
+--- CAR ENTRY (HIERARCHY) ---
+{"id": "CAR-1036", "make": "Suzuki", "model": "WagonR", "year": 2024, "price": "PKR 2900000", "location": {"city": "Multan", "province": "Punjab"}, "specs": {"engine": "1.3L", "transmission": "Automatic"}, "features": ["Sunroof", "Navigation", "Alloy Rims"]}
+
+--- CAR ENTRY (HIERARCHY) ---
+{"id": "CAR-1037", "make": "Honda", "model": "Accord", "year": 2023, "price": "PKR 5800000", "location": {"city": "Multan", "province": "Punjab"}, "specs": {"engine": "1.0L", "transmission": "Automatic"}, "features": ["Heated Seats", "Sunroof", "Leather Seats"]}
+
+--- CAR ENTRY (HIERARCHY) ---
+{"id": "CAR-1038", "make": "Honda", "model": "City", "year": 2022, "price": "PKR 7800000", "location": {"city": "Karachi", "province": "Sindh"}, "specs": {"engine": "1.8L", "transmission": "Manual"}, "features": ["Heated Seats", "Sunroof", "Leather Seats"]}
+
+--- CAR ENTRY (HIERARCHY) ---
+{"id": "CAR-1039", "make": "Honda", "model": "City", "year": 2021, "price": "PKR 5400000", "location": {"city": "Karachi", "province": "Sindh"}, "specs": {"engine": "1.8L", "transmission": "CVT"}, "features": ["Leather Seats", "Navigation", "Heated Seats"]}
+
+--- CAR ENTRY (HIERARCHY) ---
+{"id": "CAR-1040", "make": "Honda", "model": "Accord", "year": 2022, "price": "PKR 6300000", "location": {"city": "Multan", "province": "Punjab"}, "specs": {"engine": "1.5L", "transmission": "CVT"}, "features": ["Sunroof", "Leather Seats", "Cruise Control"]}
+
+--- CAR ENTRY (HIERARCHY) ---
+{"id": "CAR-1041", "make": "Toyota", "model": "Yaris", "year": 2022, "price": "PKR 7700000", "location": {"city": "Multan", "province": "Punjab"}, "specs": {"engine": "1.8L", "transmission": "Automatic"}, "features": ["Heated Seats", "Cruise Control", "Sunroof"]}
+
+--- CAR ENTRY (HIERARCHY) ---
+{"id": "CAR-1042", "make": "Toyota", "model": "Fortuner", "year": 2023, "price": "PKR 1800000", "location": {"city": "Karachi", "province": "Sindh"}, "specs": {"engine": "1.3L", "transmission": "Manual"}, "features": ["Navigation", "Alloy Rims", "Heated Seats"]}
+
+--- CAR ENTRY (HIERARCHY) ---
+{"id": "CAR-1043", "make": "Toyota", "model": "Fortuner", "year": 2021, "price": "PKR 6100000", "location": {"city": "Karachi", "province": "Sindh"}, "specs": {"engine": "1.5L", "transmission": "Automatic"}, "features": ["Navigation", "Heated Seats", "Cruise Control"]}
+
+--- CAR ENTRY (HIERARCHY) ---
+{"id": "CAR-1044", "make": "Honda", "model": "BR-V", "year": 2020, "price": "PKR 2500000", "location": {"city": "Islamabad", "province": "Federal"}, "specs": {"engine": "1.3L", "transmission": "CVT"}, "features": ["Cruise Control", "Leather Seats", "Alloy Rims"]}
+
+--- CAR ENTRY (HIERARCHY) ---
+{"id": "CAR-1045", "make": "Honda", "model": "BR-V", "year": 2022, "price": "PKR 2900000", "location": {"city": "Islamabad", "province": "Federal"}, "specs": {"engine": "1.3L", "transmission": "CVT"}, "features": ["Cruise Control", "Leather Seats", "Sunroof"]}
+
+--- CAR ENTRY (HIERARCHY) ---
+{"id": "CAR-1046", "make": "Toyota", "model": "Yaris", "year": 2020, "price": "PKR 7600000", "location": {"city": "Karachi", "province": "Sindh"}, "specs": {"engine": "1.5L", "transmission": "Automatic"}, "features": ["Alloy Rims", "Navigation", "Leather Seats"]}
+
+--- CAR ENTRY (HIERARCHY) ---
+{"id": "CAR-1047", "make": "Suzuki", "model": "Cultus", "year": 2023, "price": "PKR 2000000", "location": {"city": "Lahore", "province": "Punjab"}, "specs": {"engine": "1.3L", "transmission": "CVT"}, "features": ["Alloy Rims", "Heated Seats", "Cruise Control"]}
+
+--- CAR ENTRY (HIERARCHY) ---
+{"id": "CAR-1048", "make": "Honda", "model": "Civic", "year": 2018, "price": "PKR 5400000", "location": {"city": "Multan", "province": "Punjab"}, "specs": {"engine": "1.5L", "transmission": "Manual"}, "features": ["Leather Seats", "Cruise Control", "Sunroof"]}
+
+--- CAR ENTRY (HIERARCHY) ---
+{"id": "CAR-1049", "make": "Toyota", "model": "Yaris", "year": 2020, "price": "PKR 6100000", "location": {"city": "Multan", "province": "Punjab"}, "specs": {"engine": "1.0L", "transmission": "Automatic"}, "features": ["Heated Seats", "Cruise Control", "Navigation"]}
+
+--- CAR ENTRY (HIERARCHY) ---
+{"id": "CAR-1050", "make": "Honda", "model": "BR-V", "year": 2021, "price": "PKR 3300000", "location": {"city": "Multan", "province": "Punjab"}, "specs": {"engine": "1.5L", "transmission": "CVT"}, "features": ["Sunroof", "Cruise Control", "Heated Seats"]}

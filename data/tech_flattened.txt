@@ -1,0 +1,699 @@
+--- CAR ENTRY (FLATTENED) ---
+id: CAR-1001
+make: Suzuki
+model: WagonR
+year: 2024
+price: PKR 6900000
+location_city: Islamabad
+location_province: Federal
+specs_engine: 1.5L
+specs_transmission: Automatic
+features_0: Cruise Control
+features_1: Alloy Rims
+features_2: Leather Seats
+
+--- CAR ENTRY (FLATTENED) ---
+id: CAR-1002
+make: Suzuki
+model: Cultus
+year: 2020
+price: PKR 2700000
+location_city: Islamabad
+location_province: Federal
+specs_engine: 1.0L
+specs_transmission: Automatic
+features_0: Sunroof
+features_1: Leather Seats
+features_2: Navigation
+
+--- CAR ENTRY (FLATTENED) ---
+id: CAR-1003
+make: Suzuki
+model: Cultus
+year: 2019
+price: PKR 3100000
+location_city: Islamabad
+location_province: Federal
+specs_engine: 1.0L
+specs_transmission: CVT
+features_0: Sunroof
+features_1: Heated Seats
+features_2: Leather Seats
+
+--- CAR ENTRY (FLATTENED) ---
+id: CAR-1004
+make: Honda
+model: Accord
+year: 2020
+price: PKR 1800000
+location_city: Islamabad
+location_province: Federal
+specs_engine: 1.0L
+specs_transmission: CVT
+features_0: Cruise Control
+features_1: Navigation
+features_2: Alloy Rims
+
+--- CAR ENTRY (FLATTENED) ---
+id: CAR-1005
+make: Toyota
+model: Yaris
+year: 2024
+price: PKR 6600000
+location_city: Karachi
+location_province: Sindh
+specs_engine: 1.5L
+specs_transmission: Automatic
+features_0: Navigation
+features_1: Sunroof
+features_2: Leather Seats
+
+--- CAR ENTRY (FLATTENED) ---
+id: CAR-1006
+make: Honda
+model: Accord
+year: 2020
+price: PKR 2000000
+location_city: Lahore
+location_province: Punjab
+specs_engine: 1.0L
+specs_transmission: Manual
+features_0: Leather Seats
+features_1: Alloy Rims
+features_2: Heated Seats
+
+--- CAR ENTRY (FLATTENED) ---
+id: CAR-1007
+make: Suzuki
+model: Cultus
+year: 2018
+price: PKR 3500000
+location_city: Islamabad
+location_province: Federal
+specs_engine: 1.0L
+specs_transmission: Manual
+features_0: Heated Seats
+features_1: Sunroof
+features_2: Leather Seats
+
+--- CAR ENTRY (FLATTENED) ---
+id: CAR-1008
+make: Honda
+model: Civic
+year: 2021
+price: PKR 2500000
+location_city: Multan
+location_province: Punjab
+specs_engine: 1.8L
+specs_transmission: Manual
+features_0: Alloy Rims
+features_1: Heated Seats
+features_2: Sunroof
+
+--- CAR ENTRY (FLATTENED) ---
+id: CAR-1009
+make: Toyota
+model: Corolla
+year: 2024
+price: PKR 5600000
+location_city: Multan
+location_province: Punjab
+specs_engine: 1.5L
+specs_transmission: Automatic
+features_0: Heated Seats
+features_1: Cruise Control
+features_2: Sunroof
+
+--- CAR ENTRY (FLATTENED) ---
+id: CAR-1010
+make: Toyota
+model: Yaris
+year: 2019
+price: PKR 5200000
+location_city: Lahore
+location_province: Punjab
+specs_engine: 1.0L
+specs_transmission: CVT
+features_0: Alloy Rims
+features_1: Leather Seats
+features_2: Sunroof
+
+--- CAR ENTRY (FLATTENED) ---
+id: CAR-1011
+make: Honda
+model: BR-V
+year: 2020
+price: PKR 2200000
+location_city: Multan
+location_province: Punjab
+specs_engine: 1.0L
+specs_transmission: CVT
+features_0: Navigation
+features_1: Leather Seats
+features_2: Cruise Control
+
+--- CAR ENTRY (FLATTENED) ---
+id: CAR-1012
+make: Suzuki
+model: Alto
+year: 2018
+price: PKR 2400000
+location_city: Karachi
+location_province: Sindh
+specs_engine: 1.3L
+specs_transmission: CVT
+features_0: Leather Seats
+features_1: Cruise Control
+features_2: Navigation
+
+--- CAR ENTRY (FLATTENED) ---
+id: CAR-1013
+make: Honda
+model: Civic
+year: 2023
+price: PKR 6900000
+location_city: Karachi
+location_province: Sindh
+specs_engine: 1.5L
+specs_transmission: Manual
+features_0: Cruise Control
+features_1: Alloy Rims
+features_2: Heated Seats
+
+--- CAR ENTRY (FLATTENED) ---
+id: CAR-1014
+make: Toyota
+model: Camry
+year: 2021
+price: PKR 1700000
+location_city: Lahore
+location_province: Punjab
+specs_engine: 1.3L
+specs_transmission: CVT
+features_0: Sunroof
+features_1: Leather Seats
+features_2: Alloy Rims
+
+--- CAR ENTRY (FLATTENED) ---
+id: CAR-1015
+make: Honda
+model: Accord
+year: 2018
+price: PKR 6800000
+location_city: Islamabad
+location_province: Federal
+specs_engine: 1.3L
+specs_transmission: Manual
+features_0: Alloy Rims
+features_1: Cruise Control
+features_2: Navigation
+
+--- CAR ENTRY (FLATTENED) ---
+id: CAR-1016
+make: Toyota
+model: Fortuner
+year: 2024
+price: PKR 2200000
+location_city: Multan
+location_province: Punjab
+specs_engine: 1.5L
+specs_transmission: Manual
+features_0: Cruise Control
+features_1: Navigation
+features_2: Sunroof
+
+--- CAR ENTRY (FLATTENED) ---
+id: CAR-1017
+make: Honda
+model: City
+year: 2019
+price: PKR 2200000
+location_city: Lahore
+location_province: Punjab
+specs_engine: 1.0L
+specs_transmission: Automatic
+features_0: Alloy Rims
+features_1: Cruise Control
+features_2: Leather Seats
+
+--- CAR ENTRY (FLATTENED) ---
+id: CAR-1018
+make: Suzuki
+model: Swift
+year: 2022
+price: PKR 7900000
+location_city: Lahore
+location_province: Punjab
+specs_engine: 1.8L
+specs_transmission: Automatic
+features_0: Alloy Rims
+features_1: Heated Seats
+features_2: Navigation
+
+--- CAR ENTRY (FLATTENED) ---
+id: CAR-1019
+make: Toyota
+model: Fortuner
+year: 2021
+price: PKR 3100000
+location_city: Islamabad
+location_province: Federal
+specs_engine: 1.0L
+specs_transmission: CVT
+features_0: Sunroof
+features_1: Navigation
+features_2: Alloy Rims
+
+--- CAR ENTRY (FLATTENED) ---
+id: CAR-1020
+make: Honda
+model: BR-V
+year: 2024
+price: PKR 4800000
+location_city: Lahore
+location_province: Punjab
+specs_engine: 1.5L
+specs_transmission: CVT
+features_0: Navigation
+features_1: Sunroof
+features_2: Heated Seats
+
+--- CAR ENTRY (FLATTENED) ---
+id: CAR-1021
+make: Honda
+model: City
+year: 2020
+price: PKR 5200000
+location_city: Lahore
+location_province: Punjab
+specs_engine: 1.5L
+specs_transmission: Manual
+features_0: Cruise Control
+features_1: Leather Seats
+features_2: Alloy Rims
+
+--- CAR ENTRY (FLATTENED) ---
+id: CAR-1022
+make: Suzuki
+model: WagonR
+year: 2024
+price: PKR 6900000
+location_city: Lahore
+location_province: Punjab
+specs_engine: 1.3L
+specs_transmission: CVT
+features_0: Leather Seats
+features_1: Sunroof
+features_2: Alloy Rims
+
+--- CAR ENTRY (FLATTENED) ---
+id: CAR-1023
+make: Suzuki
+model: Cultus
+year: 2023
+price: PKR 2400000
+location_city: Lahore
+location_province: Punjab
+specs_engine: 1.0L
+specs_transmission: Automatic
+features_0: Alloy Rims
+features_1: Cruise Control
+features_2: Sunroof
+
+--- CAR ENTRY (FLATTENED) ---
+id: CAR-1024
+make: Honda
+model: Accord
+year: 2022
+price: PKR 8000000
+location_city: Lahore
+location_province: Punjab
+specs_engine: 1.8L
+specs_transmission: CVT
+features_0: Leather Seats
+features_1: Sunroof
+features_2: Alloy Rims
+
+--- CAR ENTRY (FLATTENED) ---
+id: CAR-1025
+make: Toyota
+model: Corolla
+year: 2022
+price: PKR 6600000
+location_city: Islamabad
+location_province: Federal
+specs_engine: 1.0L
+specs_transmission: Manual
+features_0: Heated Seats
+features_1: Alloy Rims
+features_2: Sunroof
+
+--- CAR ENTRY (FLATTENED) ---
+id: CAR-1026
+make: Toyota
+model: Camry
+year: 2023
+price: PKR 1700000
+location_city: Karachi
+location_province: Sindh
+specs_engine: 1.8L
+specs_transmission: Automatic
+features_0: Navigation
+features_1: Cruise Control
+features_2: Alloy Rims
+
+--- CAR ENTRY (FLATTENED) ---
+id: CAR-1027
+make: Honda
+model: City
+year: 2019
+price: PKR 2700000
+location_city: Islamabad
+location_province: Federal
+specs_engine: 1.8L
+specs_transmission: CVT
+features_0: Alloy Rims
+features_1: Heated Seats
+features_2: Sunroof
+
+--- CAR ENTRY (FLATTENED) ---
+id: CAR-1028
+make: Honda
+model: Accord
+year: 2021
+price: PKR 7400000
+location_city: Islamabad
+location_province: Federal
+specs_engine: 1.3L
+specs_transmission: Manual
+features_0: Cruise Control
+features_1: Heated Seats
+features_2: Sunroof
+
+--- CAR ENTRY (FLATTENED) ---
+id: CAR-1029
+make: Toyota
+model: Corolla
+year: 2023
+price: PKR 7800000
+location_city: Multan
+location_province: Punjab
+specs_engine: 1.5L
+specs_transmission: Manual
+features_0: Navigation
+features_1: Cruise Control
+features_2: Alloy Rims
+
+--- CAR ENTRY (FLATTENED) ---
+id: CAR-1030
+make: Suzuki
+model: Swift
+year: 2023
+price: PKR 6700000
+location_city: Lahore
+location_province: Punjab
+specs_engine: 1.5L
+specs_transmission: CVT
+features_0: Navigation
+features_1: Sunroof
+features_2: Cruise Control
+
+--- CAR ENTRY (FLATTENED) ---
+id: CAR-1031
+make: Suzuki
+model: Swift
+year: 2023
+price: PKR 3700000
+location_city: Islamabad
+location_province: Federal
+specs_engine: 1.5L
+specs_transmission: CVT
+features_0: Alloy Rims
+features_1: Leather Seats
+features_2: Heated Seats
+
+--- CAR ENTRY (FLATTENED) ---
+id: CAR-1032
+make: Toyota
+model: Fortuner
+year: 2024
+price: PKR 6100000
+location_city: Karachi
+location_province: Sindh
+specs_engine: 1.3L
+specs_transmission: Automatic
+features_0: Sunroof
+features_1: Cruise Control
+features_2: Heated Seats
+
+--- CAR ENTRY (FLATTENED) ---
+id: CAR-1033
+make: Toyota
+model: Yaris
+year: 2021
+price: PKR 3300000
+location_city: Islamabad
+location_province: Federal
+specs_engine: 1.3L
+specs_transmission: Manual
+features_0: Cruise Control
+features_1: Sunroof
+features_2: Alloy Rims
+
+--- CAR ENTRY (FLATTENED) ---
+id: CAR-1034
+make: Suzuki
+model: WagonR
+year: 2018
+price: PKR 5400000
+location_city: Lahore
+location_province: Punjab
+specs_engine: 1.0L
+specs_transmission: Automatic
+features_0: Alloy Rims
+features_1: Sunroof
+features_2: Navigation
+
+--- CAR ENTRY (FLATTENED) ---
+id: CAR-1035
+make: Toyota
+model: Fortuner
+year: 2018
+price: PKR 6300000
+location_city: Islamabad
+location_province: Federal
+specs_engine: 1.0L
+specs_transmission: Automatic
+features_0: Alloy Rims
+features_1: Navigation
+features_2: Sunroof
+
+--- CAR ENTRY (FLATTENED) ---
+id: CAR-1036
+make: Suzuki
+model: WagonR
+year: 2024
+price: PKR 2900000
+location_city: Multan
+location_province: Punjab
+specs_engine: 1.3L
+specs_transmission: Automatic
+features_0: Sunroof
+features_1: Navigation
+features_2: Alloy Rims
+
+--- CAR ENTRY (FLATTENED) ---
+id: CAR-1037
+make: Honda
+model: Accord
+year: 2023
+price: PKR 5800000
+location_city: Multan
+location_province: Punjab
+specs_engine: 1.0L
+specs_transmission: Automatic
+features_0: Heated Seats
+features_1: Sunroof
+features_2: Leather Seats
+
+--- CAR ENTRY (FLATTENED) ---
+id: CAR-1038
+make: Honda
+model: City
+year: 2022
+price: PKR 7800000
+location_city: Karachi
+location_province: Sindh
+specs_engine: 1.8L
+specs_transmission: Manual
+features_0: Heated Seats
+features_1: Sunroof
+features_2: Leather Seats
+
+--- CAR ENTRY (FLATTENED) ---
+id: CAR-1039
+make: Honda
+model: City
+year: 2021
+price: PKR 5400000
+location_city: Karachi
+location_province: Sindh
+specs_engine: 1.8L
+specs_transmission: CVT
+features_0: Leather Seats
+features_1: Navigation
+features_2: Heated Seats
+
+--- CAR ENTRY (FLATTENED) ---
+id: CAR-1040
+make: Honda
+model: Accord
+year: 2022
+price: PKR 6300000
+location_city: Multan
+location_province: Punjab
+specs_engine: 1.5L
+specs_transmission: CVT
+features_0: Sunroof
+features_1: Leather Seats
+features_2: Cruise Control
+
+--- CAR ENTRY (FLATTENED) ---
+id: CAR-1041
+make: Toyota
+model: Yaris
+year: 2022
+price: PKR 7700000
+location_city: Multan
+location_province: Punjab
+specs_engine: 1.8L
+specs_transmission: Automatic
+features_0: Heated Seats
+features_1: Cruise Control
+features_2: Sunroof
+
+--- CAR ENTRY (FLATTENED) ---
+id: CAR-1042
+make: Toyota
+model: Fortuner
+year: 2023
+price: PKR 1800000
+location_city: Karachi
+location_province: Sindh
+specs_engine: 1.3L
+specs_transmission: Manual
+features_0: Navigation
+features_1: Alloy Rims
+features_2: Heated Seats
+
+--- CAR ENTRY (FLATTENED) ---
+id: CAR-1043
+make: Toyota
+model: Fortuner
+year: 2021
+price: PKR 6100000
+location_city: Karachi
+location_province: Sindh
+specs_engine: 1.5L
+specs_transmission: Automatic
+features_0: Navigation
+features_1: Heated Seats
+features_2: Cruise Control
+
+--- CAR ENTRY (FLATTENED) ---
+id: CAR-1044
+make: Honda
+model: BR-V
+year: 2020
+price: PKR 2500000
+location_city: Islamabad
+location_province: Federal
+specs_engine: 1.3L
+specs_transmission: CVT
+features_0: Cruise Control
+features_1: Leather Seats
+features_2: Alloy Rims
+
+--- CAR ENTRY (FLATTENED) ---
+id: CAR-1045
+make: Honda
+model: BR-V
+year: 2022
+price: PKR 2900000
+location_city: Islamabad
+location_province: Federal
+specs_engine: 1.3L
+specs_transmission: CVT
+features_0: Cruise Control
+features_1: Leather Seats
+features_2: Sunroof
+
+--- CAR ENTRY (FLATTENED) ---
+id: CAR-1046
+make: Toyota
+model: Yaris
+year: 2020
+price: PKR 7600000
+location_city: Karachi
+location_province: Sindh
+specs_engine: 1.5L
+specs_transmission: Automatic
+features_0: Alloy Rims
+features_1: Navigation
+features_2: Leather Seats
+
+--- CAR ENTRY (FLATTENED) ---
+id: CAR-1047
+make: Suzuki
+model: Cultus
+year: 2023
+price: PKR 2000000
+location_city: Lahore
+location_province: Punjab
+specs_engine: 1.3L
+specs_transmission: CVT
+features_0: Alloy Rims
+features_1: Heated Seats
+features_2: Cruise Control
+
+--- CAR ENTRY (FLATTENED) ---
+id: CAR-1048
+make: Honda
+model: Civic
+year: 2018
+price: PKR 5400000
+location_city: Multan
+location_province: Punjab
+specs_engine: 1.5L
+specs_transmission: Manual
+features_0: Leather Seats
+features_1: Cruise Control
+features_2: Sunroof
+
+--- CAR ENTRY (FLATTENED) ---
+id: CAR-1049
+make: Toyota
+model: Yaris
+year: 2020
+price: PKR 6100000
+location_city: Multan
+location_province: Punjab
+specs_engine: 1.0L
+specs_transmission: Automatic
+features_0: Heated Seats
+features_1: Cruise Control
+features_2: Navigation
+
+--- CAR ENTRY (FLATTENED) ---
+id: CAR-1050
+make: Honda
+model: BR-V
+year: 2021
+price: PKR 3300000
+location_city: Multan
+location_province: Punjab
+specs_engine: 1.5L
+specs_transmission: CVT
+features_0: Sunroof
+features_1: Cruise Control
+features_2: Heated Seats

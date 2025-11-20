@@ -1,0 +1,252 @@
+[
+  {
+    "question": "What is the price and transmission of the Suzuki WagonR with ID CAR-1001?",
+    "expected_id": "CAR-1001",
+    "complexity": "Look-up"
+  },
+  {
+    "question": "What is the price and transmission of the Suzuki Cultus with ID CAR-1002?",
+    "expected_id": "CAR-1002",
+    "complexity": "Look-up"
+  },
+  {
+    "question": "What is the price and transmission of the Suzuki Cultus with ID CAR-1003?",
+    "expected_id": "CAR-1003",
+    "complexity": "Look-up"
+  },
+  {
+    "question": "What is the price and transmission of the Honda Accord with ID CAR-1004?",
+    "expected_id": "CAR-1004",
+    "complexity": "Look-up"
+  },
+  {
+    "question": "What is the price and transmission of the Toyota Yaris with ID CAR-1005?",
+    "expected_id": "CAR-1005",
+    "complexity": "Look-up"
+  },
+  {
+    "question": "What is the price and transmission of the Honda Accord with ID CAR-1006?",
+    "expected_id": "CAR-1006",
+    "complexity": "Look-up"
+  },
+  {
+    "question": "What is the price and transmission of the Suzuki Cultus with ID CAR-1007?",
+    "expected_id": "CAR-1007",
+    "complexity": "Look-up"
+  },
+  {
+    "question": "What is the price and transmission of the Honda Civic with ID CAR-1008?",
+    "expected_id": "CAR-1008",
+    "complexity": "Look-up"
+  },
+  {
+    "question": "What is the price and transmission of the Toyota Corolla with ID CAR-1009?",
+    "expected_id": "CAR-1009",
+    "complexity": "Look-up"
+  },
+  {
+    "question": "What is the price and transmission of the Toyota Yaris with ID CAR-1010?",
+    "expected_id": "CAR-1010",
+    "complexity": "Look-up"
+  },
+  {
+    "question": "What is the price and transmission of the Honda BR-V with ID CAR-1011?",
+    "expected_id": "CAR-1011",
+    "complexity": "Look-up"
+  },
+  {
+    "question": "What is the price and transmission of the Suzuki Alto with ID CAR-1012?",
+    "expected_id": "CAR-1012",
+    "complexity": "Look-up"
+  },
+  {
+    "question": "What is the price and transmission of the Honda Civic with ID CAR-1013?",
+    "expected_id": "CAR-1013",
+    "complexity": "Look-up"
+  },
+  {
+    "question": "What is the price and transmission of the Toyota Camry with ID CAR-1014?",
+    "expected_id": "CAR-1014",
+    "complexity": "Look-up"
+  },
+  {
+    "question": "What is the price and transmission of the Honda Accord with ID CAR-1015?",
+    "expected_id": "CAR-1015",
+    "complexity": "Look-up"
+  },
+  {
+    "question": "What is the price and transmission of the Toyota Fortuner with ID CAR-1016?",
+    "expected_id": "CAR-1016",
+    "complexity": "Look-up"
+  },
+  {
+    "question": "What is the price and transmission of the Honda City with ID CAR-1017?",
+    "expected_id": "CAR-1017",
+    "complexity": "Look-up"
+  },
+  {
+    "question": "What is the price and transmission of the Suzuki Swift with ID CAR-1018?",
+    "expected_id": "CAR-1018",
+    "complexity": "Look-up"
+  },
+  {
+    "question": "What is the price and transmission of the Toyota Fortuner with ID CAR-1019?",
+    "expected_id": "CAR-1019",
+    "complexity": "Look-up"
+  },
+  {
+    "question": "What is the price and transmission of the Honda BR-V with ID CAR-1020?",
+    "expected_id": "CAR-1020",
+    "complexity": "Look-up"
+  },
+  {
+    "question": "What is the price and transmission of the Honda City with ID CAR-1021?",
+    "expected_id": "CAR-1021",
+    "complexity": "Look-up"
+  },
+  {
+    "question": "What is the price and transmission of the Suzuki WagonR with ID CAR-1022?",
+    "expected_id": "CAR-1022",
+    "complexity": "Look-up"
+  },
+  {
+    "question": "What is the price and transmission of the Suzuki Cultus with ID CAR-1023?",
+    "expected_id": "CAR-1023",
+    "complexity": "Look-up"
+  },
+  {
+    "question": "What is the price and transmission of the Honda Accord with ID CAR-1024?",
+    "expected_id": "CAR-1024",
+    "complexity": "Look-up"
+  },
+  {
+    "question": "What is the price and transmission of the Toyota Corolla with ID CAR-1025?",
+    "expected_id": "CAR-1025",
+    "complexity": "Look-up"
+  },
+  {
+    "question": "What is the price and transmission of the Toyota Camry with ID CAR-1026?",
+    "expected_id": "CAR-1026",
+    "complexity": "Look-up"
+  },
+  {
+    "question": "What is the price and transmission of the Honda City with ID CAR-1027?",
+    "expected_id": "CAR-1027",
+    "complexity": "Look-up"
+  },
+  {
+    "question": "What is the price and transmission of the Honda Accord with ID CAR-1028?",
+    "expected_id": "CAR-1028",
+    "complexity": "Look-up"
+  },
+  {
+    "question": "What is the price and transmission of the Toyota Corolla with ID CAR-1029?",
+    "expected_id": "CAR-1029",
+    "complexity": "Look-up"
+  },
+  {
+    "question": "What is the price and transmission of the Suzuki Swift with ID CAR-1030?",
+    "expected_id": "CAR-1030",
+    "complexity": "Look-up"
+  },
+  {
+    "question": "What is the price and transmission of the Suzuki Swift with ID CAR-1031?",
+    "expected_id": "CAR-1031",
+    "complexity": "Look-up"
+  },
+  {
+    "question": "What is the price and transmission of the Toyota Fortuner with ID CAR-1032?",
+    "expected_id": "CAR-1032",
+    "complexity": "Look-up"
+  },
+  {
+    "question": "What is the price and transmission of the Toyota Yaris with ID CAR-1033?",
+    "expected_id": "CAR-1033",
+    "complexity": "Look-up"
+  },
+  {
+    "question": "What is the price and transmission of the Suzuki WagonR with ID CAR-1034?",
+    "expected_id": "CAR-1034",
+    "complexity": "Look-up"
+  },
+  {
+    "question": "What is the price and transmission of the Toyota Fortuner with ID CAR-1035?",
+    "expected_id": "CAR-1035",
+    "complexity": "Look-up"
+  },
+  {
+    "question": "What is the price and transmission of the Suzuki WagonR with ID CAR-1036?",
+    "expected_id": "CAR-1036",
+    "complexity": "Look-up"
+  },
+  {
+    "question": "What is the price and transmission of the Honda Accord with ID CAR-1037?",
+    "expected_id": "CAR-1037",
+    "complexity": "Look-up"
+  },
+  {
+    "question": "What is the price and transmission of the Honda City with ID CAR-1038?",
+    "expected_id": "CAR-1038",
+    "complexity": "Look-up"
+  },
+  {
+    "question": "What is the price and transmission of the Honda City with ID CAR-1039?",
+    "expected_id": "CAR-1039",
+    "complexity": "Look-up"
+  },
+  {
+    "question": "What is the price and transmission of the Honda Accord with ID CAR-1040?",
+    "expected_id": "CAR-1040",
+    "complexity": "Look-up"
+  },
+  {
+    "question": "What is the price and transmission of the Toyota Yaris with ID CAR-1041?",
+    "expected_id": "CAR-1041",
+    "complexity": "Look-up"
+  },
+  {
+    "question": "What is the price and transmission of the Toyota Fortuner with ID CAR-1042?",
+    "expected_id": "CAR-1042",
+    "complexity": "Look-up"
+  },
+  {
+    "question": "What is the price and transmission of the Toyota Fortuner with ID CAR-1043?",
+    "expected_id": "CAR-1043",
+    "complexity": "Look-up"
+  },
+  {
+    "question": "What is the price and transmission of the Honda BR-V with ID CAR-1044?",
+    "expected_id": "CAR-1044",
+    "complexity": "Look-up"
+  },
+  {
+    "question": "What is the price and transmission of the Honda BR-V with ID CAR-1045?",
+    "expected_id": "CAR-1045",
+    "complexity": "Look-up"
+  },
+  {
+    "question": "What is the price and transmission of the Toyota Yaris with ID CAR-1046?",
+    "expected_id": "CAR-1046",
+    "complexity": "Look-up"
+  },
+  {
+    "question": "What is the price and transmission of the Suzuki Cultus with ID CAR-1047?",
+    "expected_id": "CAR-1047",
+    "complexity": "Look-up"
+  },
+  {
+    "question": "What is the price and transmission of the Honda Civic with ID CAR-1048?",
+    "expected_id": "CAR-1048",
+    "complexity": "Look-up"
+  },
+  {
+    "question": "What is the price and transmission of the Toyota Yaris with ID CAR-1049?",
+    "expected_id": "CAR-1049",
+    "complexity": "Look-up"
+  },
+  {
+    "question": "What is the price and transmission of the Honda BR-V with ID CAR-1050?",
+    "expected_id": "CAR-1050",
+    "complexity": "Look-up"
+  }
+]
