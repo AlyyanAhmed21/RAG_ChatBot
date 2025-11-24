@@ -1,35 +1,3 @@
-### 📂 Project Explanation
-
-**Project Name:** RAG Chunking Technique R&D Lab
-**Goal:** To scientifically determine the most efficient method for feeding **Nested JSON Data** (specifically complex car records) into a Large Language Model (LLM) for Retrieval-Augmented Generation (RAG).
-
-**The Problem:**
-Standard RAG works well for text (PDFs/Docs). However, JSON data is structured code. When you split JSON using standard text splitters:
-1.  **Context Loss:** Child keys (e.g., `"sunroof"`) get separated from parent keys (e.g., `"Toyota Fortuner"`).
-2.  **Token Waste:** JSON syntax (`{`, `}`, `"`) consumes tokens without adding meaning.
-3.  **Poor Retrieval:** Vector databases struggle to match natural language questions to code syntax.
-
-**The Solution (What you built):**
-You created an experiment framework that processes the same JSON dataset using **4 distinct chunking strategies**:
-1.  **Flattened Key-Value:** Converts nested JSON to single-line pairs (e.g., `make_model: Toyota Fortuner`).
-2.  **Hierarchy-Aware:** Uses LangChain's `RecursiveJsonSplitter` to preserve object structure.
-3.  **Semantic Tree:** Converts JSON data into natural language sentences (e.g., *"The Toyota Fortuner has a price of..."*).
-4.  **Graph-Based:** Converts data into Subject-Predicate-Object triples (e.g., `(Fortuner) -> [has_feature] -> (Sunroof)`).
-
-**The Evaluation Engine:**
-You built a live Streamlit dashboard and offline scripts to measure:
-*   **Relevance Score:** (Using a Cross-Encoder) How relevant is the retrieved chunk?
-*   **Token Efficiency:** How many tokens does it cost to answer?
-*   **Latency:** How fast is it?
-*   **Accuracy:** (Using Ground Truth) Does it find the exact ID?
-
----
-
-### 📄 README.md
-
-Copy the code below into your project's `README.md` file.
-
-```markdown
 # 🧪 RAG Chunking Strategy R&D Lab (Nested JSON)
 
 This project is a Research & Development framework designed to evaluate and optimize **Retrieval-Augmented Generation (RAG)** pipelines for **Nested JSON Data**.
